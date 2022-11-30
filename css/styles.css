@@ -314,6 +314,10 @@ caption {
   text-align: left;
 }
 
+.slbCaption{
+  font-size: 1.2em;
+}
+
 th {
   text-align: inherit;
   text-align: -webkit-match-parent;
